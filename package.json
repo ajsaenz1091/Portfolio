@@ -29,7 +29,12 @@
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "sass-loader": "^8.0.2",
     "style-loader": "^1.2.1",
+<<<<<<< HEAD
     "webpack": "^4.44.2",
+=======
+    "ts-loader": "^8.0.4",
+    "webpack": "^4.43.0",
+>>>>>>> a450f998bc8d5913ccaba09daa9e6c2df6544ae1
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^4.2.2"
